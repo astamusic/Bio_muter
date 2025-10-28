@@ -23,7 +23,7 @@ If you need help or updates, check the buttons below 👇"""
             ]
         )
 
-        photo_url = "https://files.catbox.moe/l5abdg.jpg"
+        photo_url = "https://files.catbox.moe/079di0.jpg"
 
         try:
             # Group mein photo bhejna kabhi kabhi permission issue de sakta hai
